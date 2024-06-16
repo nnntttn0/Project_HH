@@ -26,4 +26,5 @@ Fнализ зависимостей в данных методом визуал
 
 #### PS
 Ссылка на датасет ниже
+
 https://drive.google.com/drive/folders/1-bYa9qgRwMXxcSZshRkIwxsfheVWxM3j?usp=drive_link
